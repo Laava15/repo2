@@ -1,8 +1,6 @@
 #!/bin/bash
-echo "enter the value for num1"
-read num1
-echo "enter the value for num2"
-read num2
+num1=4
+num2=2
 
 sum=`expr $num1 + $num2`
 sub=`expr $num1 - $num2`
@@ -15,4 +13,3 @@ echo "the subtraction of num1 and num2 is $sub"
 echo "the product of num1 and num2 is $product"
 echo "the division of num1 and num2 is $div"
 echo "the remainder of num1 and num2 is $rem"
-
