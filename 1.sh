@@ -13,5 +13,3 @@ echo "the subtraction of num1 and num2 is $sub"
 echo "the product of num1 and num2 is $product"
 echo "the division of num1 and num2 is $div"
 echo "the remainder of num1 and num2 is $rem"
-
-
